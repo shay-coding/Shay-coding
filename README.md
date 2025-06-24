@@ -1,4 +1,4 @@
-# Hi, I'm ShaneyBoyYT 👋
+# Hi, I'm Shay
 
 **Bus enthusiast** 🚌 | **Coder** 💻 | Dreaming of making my own Linux distro 🚀
 
