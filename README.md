@@ -21,7 +21,7 @@ My dream is to create a Linux distro designed to feel and run like Windows 11, b
 
 ---
 
-### Key languages:
+### Main languages:
 
 - Python 🐍  
 - C++ 💻  
