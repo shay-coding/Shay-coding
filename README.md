@@ -25,4 +25,4 @@ My dream is to create a Linux distro designed to feel and run like Windows 11, b
 
 - Python 🐍  
 - C++ 💻  
-- HTML & JavaScript 🌐
+- HTML, CSS & JavaScript 🌐
