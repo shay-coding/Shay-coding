@@ -21,8 +21,8 @@ My dream is to create a Linux distro designed to feel and run like Windows 11, b
 
 ---
 
-### Most Used languages:
+### Key languages:
 
 - Python 🐍  
 - C++ 💻  
-- HTML, CSS & JavaScript 🌐
+- HTML & JavaScript 🌐
