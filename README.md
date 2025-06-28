@@ -9,9 +9,9 @@ My dream is to create a Linux distro designed to feel and run like Windows 11, b
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneyBoyYT&show_icons=true&count_private=true&hide_title=true&bg_color=1e1e1e&text_color=ffffff&icon_color=ff0000&title_color=ff0000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shay-codin&show_icons=true&count_private=true&hide_title=true&bg_color=1e1e1e&text_color=ffffff&icon_color=ff0000&title_color=ff0000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneyBoyYT&layout=compact&bg_color=1e1e1e&text_color=ffffff&title_color=ff0000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shay-codin&layout=compact&bg_color=1e1e1e&text_color=ffffff&title_color=ff0000)
 
 ---
 
