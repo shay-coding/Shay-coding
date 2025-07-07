@@ -1,10 +1,10 @@
 # Hi, I'm Shay 👋
 
-**Bus enthusiast** 🚌 | **Coder** 💻 | Dreaming of making my own Linux distro 🚀
+**Bus enthusiast** 🚌 | **Coder** 💻 | **Dreaming of making my own Linux distro** 🚀
 
 ---
 
-I love buses and have always enjoyed coding — whether for fun or work.  
+I love buses and have always enjoyed coding - whether for fun or work.  
 My dream is to create a Linux distro designed to feel and run like Windows 11, but without the bloatware.
 
 ---
